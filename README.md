@@ -36,8 +36,6 @@ Before running the simulations, ensure that you have the following prerequisites
 #### Without Synchronization
 
 The simulation without synchronization results in a final value of `X` influenced by race conditions and uncontrolled access to the critical section.
-
-```python
 Without Synchronization - Final value of X: ...
 
 ## Usage
